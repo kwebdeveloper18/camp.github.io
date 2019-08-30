@@ -1,0 +1,79 @@
+body {
+	
+	
+background-image: url(lake.jpg);	
+		
+		
+
+}
+
+h1{
+
+				border: 1px solid black;
+				text-align: center;
+				border-width: thick;
+				border-style: ridge;
+				border-radius: 10px;
+				background-color: #3498db;
+				background-image: url(underthesea.jxr)
+				
+				
+
+}
+
+.main {
+
+				color: #17202a;
+				font-size: 25px;
+				line-height: 1.5em;
+				background-color: #051ff8;
+				border-color: black 2px solid;
+				border-style: ridge;
+				border-width: thick;
+				margin: 0px;
+				padding: 0px;
+				border-radius: 10px;
+				padding: 25px;
+				
+}
+
+p.para1 {	
+		color: #17202a;
+				font-size: 25px;
+				line-height: 1.5em;
+				background-color: #e74c3c;
+				border-color: black 2px solid;
+				border-style: ridge;
+				border-width: thick;
+				margin: 0px;
+				padding: 0px;
+				border-radius: 10px;
+				padding: 25px;
+				background-image: url(underthesea.jxr);
+}
+
+.imagec {
+
+		display: block;
+		margin-left: auto;
+		padding: 3px;
+		background-color: black;
+		border-color: black;
+		border-width: 2px;
+		border-style: ridge;
+		text-align: center;
+}
+
+
+
+a:link {
+	color: blue;
+}
+
+a:visited {
+	color: blue;
+}
+
+a:hover {
+color: #F15A51;
+}  	
